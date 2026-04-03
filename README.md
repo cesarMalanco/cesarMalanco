@@ -51,17 +51,6 @@ I am a **Systems Engineering student** dedicated to building robust software, ex
 
 </div>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cesarMalanco&show_icons=true&theme=matrix&hide_border=true&title_color=00FF41&icon_color=00FF41" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cesarMalanco&theme=matrix&hide_border=true&currStreakLabel=00FF41&currStreakNum=ffffff&fire=00FF41" alt="GitHub streak" />
-</p>
-
----
-
 <p align="center">
   <em>⚡ "Exploring systems, building solutions." ⚡</em>
 </p>
