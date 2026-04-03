@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cesarMalanco/cesarMalanco/main/matrix-banner.png" alt="banner" />
-</p>
-
 <h1 align="center">Hi 👋, I'm César Andrés <sub><sup></sup></sub></h1>
 
 <p align="center">
