@@ -42,7 +42,3 @@ I am a **Systems Engineering student** dedicated to building robust software, ex
 </p>
 
 </div>
-
-<p align="center">
-  <em>⚡ "Exploring systems, building solutions." ⚡</em>
-</p>
