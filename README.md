@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm César Andrés <sub><sup>ISC Student</sup></sub></h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cesarMalanco/cesarMalanco/main/matrix-banner.png" alt="banner" />
+</p>
+
+<h1 align="center">Hi 👋, I'm César Andrés <sub><sup></sup></sub></h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cesarMalanco&label=System%20Access&color=00FF41&style=flat" alt="profile views" />
@@ -6,48 +10,59 @@
 
 ---
 
-## 🚀 Overview
-Systems Engineering student focused on building robust software, exploring blockchain infrastructures, and managing self-hosted environments.
+## 🔭 About Me
+I am a **Systems Engineering student** dedicated to building robust software, exploring blockchain infrastructures, and managing self-hosted environments.
 
-- **Focus:** `Web3_Development` • `System_Architecture` • `Scalable_Solutions`
+- 🛠️ Currently focusing on **Full-Stack Development** and **Web3 (Solana/Rust)**.
+- ⚙️ Deeply interested in **Self-Hosted infrastructure** and network automation.
+- 🔌 Experienced in bridging the gap between **Hardware (IoT)** and scalable software.
+- 🏛️ Driven by a clean, functional, and secure-by-design technical aesthetic.
 
 ---
 
-## 🧰 Technical Arsenal
+## 🧰 Skills & Tools
 
-### 💻 Languages & Frameworks
+<div align="center">
+
+### 💻 Core Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-00FF41?style=for-the-badge&logo=openjdk&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/C%2B%2B-00FF41?style=for-the-badge&logo=c%2B%2B&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/Rust-00FF41?style=for-the-badge&logo=rust&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-00FF41?style=for-the-badge&logo=typescript&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/Angular-00FF41?style=for-the-badge&logo=angular&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-00FF41?style=for-the-badge&logo=node.js&logoColor=black" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" title="Rust" width="50" height="50"/>
+</p>
+
+### 🌐 Frameworks & Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" title="Kafka" width="50" height="50"/>
 </p>
 
 ### ⚙️ Infrastructure & Engineering
 <p>
-  <img src="https://img.shields.io/badge/Docker-00FF41?style=for-the-badge&logo=docker&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/Linux-00FF41?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/Nginx-00FF41?style=for-the-badge&logo=nginx&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/Kafka-00FF41?style=for-the-badge&logo=apachekafka&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/Arduino-00FF41?style=for-the-badge&logo=arduino&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/Cisco-00FF41?style=for-the-badge&logo=cisco&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/VBox-00FF41?style=for-the-badge&logo=virtualbox&logoColor=black" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/arduino.png" title="Arduino" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50" height="50"/>
+</p>
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cesarMalanco&show_icons=true&theme=matrix&hide_border=true&title_color=00FF41&icon_color=00FF41" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cesarMalanco&theme=matrix&hide_border=true&currStreakLabel=00FF41&currStreakNum=ffffff&fire=00FF41" alt="GitHub streak" />
 </p>
 
 ---
 
-## 📈 System Metrics
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cesarMalanco&show_icons=true&theme=matrix&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=00FF41" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cesarMalanco&theme=matrix&hide_border=true&fire=00FF41&ring=00FF41&stroke=00FF41&currStreakLabel=00FF41" />
-</p>
-
----
-
-<p align="center">
-  <code>⚡ Exploring systems, building solutions. ⚡</code>
+  <em>⚡ "Exploring systems, building solutions." ⚡</em>
 </p>
