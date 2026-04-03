@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm César Andrés <sub><sup></sup></sub></h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cesarMalanco&label=System%20Access&color=00FF41&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🔭 About Me
