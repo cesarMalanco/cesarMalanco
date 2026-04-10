@@ -2,7 +2,7 @@
 
 ---
 
-## 🔭 About Me
+## About Me
 I am a **Systems Engineering student** dedicated to building robust software, exploring blockchain infrastructures, and managing self-hosted environments.
 
 - 🛠️ Currently focusing on **Full-Stack Development** and **Web3 (Solana/Rust)**.
@@ -12,7 +12,7 @@ I am a **Systems Engineering student** dedicated to building robust software, ex
 
 ---
 
-## 🧰 Skills & Tools
+## Skills & Tools
 
 <div align="center">
 
@@ -24,7 +24,7 @@ I am a **Systems Engineering student** dedicated to building robust software, ex
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="50" height="50"/>&nbsp;&nbsp;
 </p>
 
-### 🌐 Frameworks & Backend
+### Frameworks & Backend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="50" height="50"/>&nbsp;&nbsp;
@@ -32,7 +32,7 @@ I am a **Systems Engineering student** dedicated to building robust software, ex
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" title="Kafka" width="50" height="50"/>
 </p>
 
-### ⚙️ Infrastructure & Engineering
+### Infrastructure & Engineering
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="50" height="50"/>&nbsp;&nbsp;
